@@ -10,7 +10,7 @@
   <img align="center" alt="Becker-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Becker-CSS" height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Becker-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="right" alt="BMO" src="https://discordapp.com/channels/863177558170533939/863177558832709634/872600410131673138">
+  <img align="right" alt="BMO" height="100" src="https://64.media.tumblr.com/tumblr_lwxdpiz2nL1r32wpdo1_400.gif">
 </div>
   
   ##
