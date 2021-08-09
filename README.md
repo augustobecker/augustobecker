@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Augusto Becker
+Sou estudante de Engenharia de Software na 42sãopaulo
 
 <div>
   <a href="https://github.com/augustobecker">
