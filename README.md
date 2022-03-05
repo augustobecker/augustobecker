@@ -1,11 +1,7 @@
 ### Olá! Eu sou o Augusto Becker
 Sou estudante de Engenharia de Software na 42sãopaulo
   
-  <a href="https://github.com/augustobecker">  
-  
   ![Github readme stats](https://git-stats.willianrod.com/api?username=augustobecker&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff&hide_border=true) ![Github Languagues](https://git-stats.willianrod.com/api/top-langs/?username=augustobecker&layout=compact&hide_border=true)
-  
-  </a>
 
   ##
 
