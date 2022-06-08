@@ -1,8 +1,8 @@
 # Hello, World!
 
 <div style="display: inline_block">
-  <img alt="Github readme stats" height="172em" src="https://git-stats.willianrod.com/api?username=augustobecker&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=000000&hide_border=true&text_color=ffffff">
-  <img alt="Github Top Languagues" height="172em" src="https://git-stats.willianrod.com/api/top-langs/?username=augustobecker&layout=compact&icon_color=0366d6&bg_color=000000&hide_border=true&text_color=ffffff">
+  <img alt="Github readme stats" height="150em" src="https://git-stats.willianrod.com/api?username=augustobecker&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=000000&hide_border=true&text_color=ffffff">
+  <img alt="Github Top Languagues" height="150em" src="https://git-stats.willianrod.com/api/top-langs/?username=augustobecker&layout=compact&icon_color=0366d6&bg_color=000000&hide_border=true&text_color=ffffff">
 </div>
 
   ##
