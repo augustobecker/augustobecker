@@ -33,9 +33,7 @@
 <img align="center" alt="CSS 3" height="50" src="https://user-images.githubusercontent.com/81205527/157163332-869bb5a7-3621-42de-9403-a0f754228fba.png">
 <img align="center" alt="Java Script" height="50" src="https://user-images.githubusercontent.com/81205527/157163345-9620c9a1-ce90-412c-80c2-f98b29f3e33c.png">
 <img align="center" alt="Github" height="50" src="https://user-images.githubusercontent.com/81205527/157163627-e58bd793-ca7c-43cf-b820-83987d386332.png">
-<img align="center" alt="Excel" height="50" src="https://user-images.githubusercontent.com/81205527/157164195-41abeda3-9102-49fa-93c6-7fbf8299d264.png">
-<img align="center" alt="Word" height="50" src="https://user-images.githubusercontent.com/81205527/157164201-5e341619-81c3-43c1-8f92-f50a61396721.png">
-<img align="center" alt="Power Point" height="50" src="https://user-images.githubusercontent.com/81205527/157164243-864607a7-f40b-4810-9d82-3f8768d6c0ae.png">
+
 
 </div>
 
