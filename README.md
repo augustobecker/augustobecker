@@ -42,11 +42,11 @@
 #### Projects at 42sp
 
 <div style="display: inline_block">
-  <a href="https://github.com/augustobecker/Libft" target="_blank"> <img align="center" alt="Libft" src="https://user-images.githubusercontent.com/81205527/149165832-9344c9e5-6075-4268-b276-26b60efc5733.png"> </a>
-  <a href="https://github.com/augustobecker/get_next_line" target="_blank"><img align="center" alt="get_next_line" src="https://user-images.githubusercontent.com/81205527/149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5.png">  </a>
-    <a href="https://github.com/augustobecker/ft_printf" target="_blank"><img align="center" alt="ft_printf" src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png">  </a>
-  <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot" src="https://user-images.githubusercontent.com/81205527/172512716-24c61c2a-2717-407d-bad8-489f531b12bd.png">  </a>
-  <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png">  </a>
+  <a href="https://github.com/augustobecker/Libft" target="_blank"> <img align="center" alt="Libft"  height="100" src="https://user-images.githubusercontent.com/81205527/149165832-9344c9e5-6075-4268-b276-26b60efc5733.png"> </a>
+  <a href="https://github.com/augustobecker/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="100" src="https://user-images.githubusercontent.com/81205527/149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5.png">  </a>
+    <a href="https://github.com/augustobecker/ft_printf" target="_blank"><img align="center" alt="ft_printf"  height="100" src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png">  </a>
+  <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot"  height="100" src="https://user-images.githubusercontent.com/81205527/172512716-24c61c2a-2717-407d-bad8-489f531b12bd.png">  </a>
+  <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long"  height="100" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png">  </a>
 
 </div>
 
