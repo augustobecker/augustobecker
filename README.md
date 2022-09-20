@@ -48,6 +48,7 @@
   <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot"  height="100" src="https://user-images.githubusercontent.com/81205527/172512716-24c61c2a-2717-407d-bad8-489f531b12bd.png">  </a>
   <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long"  height="100" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png">  </a>
     <a href="https://github.com/augustobecker/pipex" target="_blank"><img align="center" alt="pipex"  height="100" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png">  </a>
+<a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" height="100" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"> </a>
 
 </div>
 
