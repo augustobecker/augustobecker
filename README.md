@@ -1,22 +1,16 @@
 
-</div>
-
-***
-
-<p align="center">acesar-l</p>
-
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
 
 ###### <p align="center">Projects at 42sp </p>
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/augustobecker/Libft" target="_blank"> <img align="center" alt="Libft"  height="40" src="https://user-images.githubusercontent.com/81205527/149165832-9344c9e5-6075-4268-b276-26b60efc5733.png"> </a>
-  <a href="https://github.com/augustobecker/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="40" src="https://user-images.githubusercontent.com/81205527/149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5.png">  </a>
-    <a href="https://github.com/augustobecker/ft_printf" target="_blank"><img align="center" alt="ft_printf"  height="40" src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png">  </a>
-  <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot"  height="40" src="https://user-images.githubusercontent.com/81205527/172512716-24c61c2a-2717-407d-bad8-489f531b12bd.png">  </a>
-  <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long"  height="40" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png">  </a>
-    <a href="https://github.com/augustobecker/pipex" target="_blank"><img align="center" alt="pipex"  height="40" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png">  </a>
-<a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" height="40" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"> </a>
+  <a href="https://github.com/augustobecker/Libft" target="_blank"> <img align="center" alt="Libft"  height="60" src="https://user-images.githubusercontent.com/81205527/149165832-9344c9e5-6075-4268-b276-26b60efc5733.png"> </a>
+  <a href="https://github.com/augustobecker/get_next_line" target="_blank"><img align="center" alt="get_next_line"  height="60" src="https://user-images.githubusercontent.com/81205527/149212588-45d60d10-2e78-46c5-bf0c-0dc247464ad5.png">  </a>
+    <a href="https://github.com/augustobecker/ft_printf" target="_blank"><img align="center" alt="ft_printf"  height="60" src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png">  </a>
+  <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot"  height="60" src="https://user-images.githubusercontent.com/81205527/172512716-24c61c2a-2717-407d-bad8-489f531b12bd.png">  </a>
+  <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long"  height="60" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png">  </a>
+    <a href="https://github.com/augustobecker/pipex" target="_blank"><img align="center" alt="pipex"  height="60" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png">  </a>
+<a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" height="60" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"> </a>
 
 </div>
 
