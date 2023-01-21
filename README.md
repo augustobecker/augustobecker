@@ -13,6 +13,7 @@
 <a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" height="60" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"> </a>
   <a href="https://github.com/augustobecker/minishell" target="_blank"><img align="center" alt="minishell" height="60" src="https://user-images.githubusercontent.com/81205527/206884965-cfe1b09f-0c6c-4a9d-b252-a9fffb78dfef.png"> </a>
   <a href="https://github.com/augustobecker/Philosophers" target="_blank"><img align="center" alt="Philosophers" height="60" src="https://user-images.githubusercontent.com/81205527/210457725-477080a7-1a97-4968-9621-35c3e747c22b.png"> </a>
+    <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="NetPractice" height="60" src="https://user-images.githubusercontent.com/81205527/213839641-716b2231-992b-4dcb-aab7-90ec844fa1d3.png"> </a>
 
 </div>
 
