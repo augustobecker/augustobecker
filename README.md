@@ -1,6 +1,17 @@
 
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
 
+<div style="display: flex; margin: 10px;">
+  <div style="flex: 1; background-color: red;">Div 1</div>
+  <div style="flex: 1; background-color: green; margin-left: 10px;">Div 2</div>
+  <div style="flex: 1; background-color: blue; margin-left: 10px;">Div 3</div>
+</div>
+
+<div style="display: flex; margin: 10px;">
+  <div style="flex: 1; background-color: red;">Div 1</div>
+  <div style="flex: 1; background-color: blue; margin-left: 10px;">Div 3</div>
+</div>
+
 ###### <p align="center">Projects at 42sp </p>
 
 <div align="center" style="display: inline_block">
