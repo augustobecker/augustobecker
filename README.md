@@ -1,5 +1,12 @@
 
-          
+
+<p align="center"> 
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square:
+</p>      
 
 <div style="display: inline_block" align="center">
 
