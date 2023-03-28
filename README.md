@@ -3,6 +3,8 @@
 
 <div style="display: inline_block" align="center">
 
+<h3 align="center"> <strong>Languages and Tools</strong></p>
+          
 <img align="center" alt="C" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Bash" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
@@ -14,8 +16,20 @@
 
 </div>
 
+<p align="center"> 
+          :black_small_square: 	:black_medium_small_square:
+          :black_medium_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_small_square: 	:black_medium_small_square:
+          :black_medium_square: 	:black_medium_small_square: 
+          :black_small_square:
+</p>
+
 <div style="display: inline_block" align="center">
 
+<h3 align="center"> <strong>How to reach me</strong></p>          
+          
 <a href="https://www.linkedin.com/in/augusto-becker/" target="_blank"><img align="center" alt="LinkedIn" height="40" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png"></a>
 <a href="https://www.instagram.com/augusto.becker/" target="_blank"><img align="center" alt="Instagram" height="40" src="https://user-images.githubusercontent.com/81205527/157161841-19ec3ab2-2c8f-4ec0-8b9d-3cd885256098.png"></a>
 <a href = "mailto:augustobecker.dev@gmail.com"> <img align="center" alt="Gmail - augustobecker.dev@gmail.com" height="40" src="https://user-images.githubusercontent.com/81205527/157161831-eb9dffee-404b-4ffe-b0af-34671219f7fb.png"></a>
