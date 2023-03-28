@@ -1,5 +1,8 @@
 
 
+<p align="center">  <strong> Brazilian, 21 years old </strong> </p>
+<p align="center">  <strong> Software Engineering student at 42sp </strong> </p>
+
 <p align="center"> 
           :black_small_square: 	:black_medium_small_square:
           :black_small_square: 	:black_medium_small_square:
