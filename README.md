@@ -1,7 +1,10 @@
 
 
 <p align="center">  <strong> Brazilian, 22 years old </strong> </p>
+<p align="center">  <strong> Software Engineer Intern at Itaú Unibanco </strong> </p>
+<p align="center"> <strong> Computer Networks student at Cruzeiro do Sul </strong> </p>
 <p align="center">  <strong> Software Engineering student at 42sp </strong> </p>
+
 
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
 
@@ -32,6 +35,20 @@
 
 ###### <p align="center">check some of them (just click in the icon) </p>
           
+</div>
+
+###### <p align="center">Medals and Achievements at 42sp: </p>
+<div align="center" style="display: inline_block">
+
+<div align="center" style="display: inline_block">
+  <a target="_blank"> <img align="center" alt="P2P_Master"  height="50" src="https://github.com/augustobecker/Inception/assets/81205527/0ebe5f51-f65e-4676-bc53-09bc33b59a77"> </a>
+  <a target="_blank"><img align="center" alt="Ready_to_help"  height="50" src="https://github.com/augustobecker/Inception/assets/81205527/272b22ef-1b04-4605-bf54-9325b760aac0">  </a>
+
+<p align="center" style="font-size: smaller;"> 
+  <i>P2P Master:</i> Recognition for conducting more than 100 code reviews, contributing to the development and learning of peers.
+  <br>
+  <i>Ready to Help:</i> Recognition for volunteering in 5 events organized by 42, demonstrating commitment and support to the community.
+</p>
 </div>
 
           
