@@ -1,7 +1,7 @@
 
 
 <p align="center">  <strong> Brazilian, 22 years old </strong> </p>
-<p align="center">  <strong> Software Engineer Intern at Itaú Unibanco </strong> </p>
+<p align="center">  <strong> IT Platform Engineer Jr at Itaú Unibanco </strong> </p>
 <p align="center"> <strong> Computer Networks student at Cruzeiro do Sul </strong> </p>
 <p align="center">  <strong> Software Engineering student at 42sp </strong> </p>
 
