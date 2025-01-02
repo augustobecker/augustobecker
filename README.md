@@ -17,7 +17,8 @@
 <div align="center" style="display: inline_block">
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c" target="_blank"> <img align="center" alt="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c"  height="80" src="https://github.com/user-attachments/assets/d6c3607a-6e7c-4826-94cd-117e5faa57a8"> </a>
+            <a href="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c" target="_blank"> <img align="center" alt="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c"  height="80" src="https://github.com/user-attachments/assets/d6c3607a-6e7c-4826-94cd-117e5faa57a8"> </a>
+          <a href="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015" target="_blank"> <img align="center" alt="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015"  height="80" src="https://github.com/user-attachments/assets/b5840e1e-c34c-4386-9f30-f231db1666cb"> </a>
           
 <p align="center"> 
           :black_small_square: 	:black_medium_small_square:
