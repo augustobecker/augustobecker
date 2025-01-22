@@ -18,6 +18,8 @@
 
 <div align="center" style="display: inline_block">
             <a href="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c" target="_blank"> <img align="center" alt="https://www.credly.com/badges/20eb6bf0-d610-4d67-a2ec-b525e90cca8c"  height="80" src="https://github.com/user-attachments/assets/d6c3607a-6e7c-4826-94cd-117e5faa57a8"> </a>
+            <a href="https://www.credly.com/badges/7e41c172-1c7f-473e-bee8-613dd40b6178" target="_blank"> <img align="center" alt="https://www.credly.com/badges/7e41c172-1c7f-473e-bee8-613dd40b6178"  height="80" src="https://github.com/user-attachments/assets/63254f01-b636-40f2-b482-41d13c634581"> </a>
+            <a href="https://www.credly.com/badges/01c2dd71-4817-43fd-84e4-0a3a06c8fcfe" target="_blank"> <img align="center" alt="https://www.credly.com/badges/01c2dd71-4817-43fd-84e4-0a3a06c8fcfe"  height="80" src="https://github.com/user-attachments/assets/ea1db0df-d1bc-4349-9d0c-b65214921202"> </a> 
           <a href="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015" target="_blank"> <img align="center" alt="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015"  height="80" src="https://github.com/user-attachments/assets/b5840e1e-c34c-4386-9f30-f231db1666cb"> </a>
           
 <p align="center"> 
