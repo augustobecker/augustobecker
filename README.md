@@ -38,6 +38,7 @@
           
 <img align="center" alt="Python" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img align="center" alt="AWS" height="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="Terraform" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
 <img align="center" alt="C" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 <img align="center" alt="CPP" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 <img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
