@@ -1,7 +1,7 @@
 
 
 <p align="center">  <strong> Brazilian, 23 years old </strong> </p>
-<p align="center">  <strong> IT Platform Engineer Jr at Itaú Unibanco </strong> </p>
+<p align="center">  <strong> IT Platform Engineer at Itaú Unibanco </strong> </p>
 
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
 
@@ -13,7 +13,7 @@
           :black_small_square:
 </p>      
 
-###### <p align="center">Certifications: </p>
+<h3 align="center"> <strong>Certifications</strong></p>
 <div align="center" style="display: inline_block">
 
 <div align="center" style="display: inline_block">
