@@ -22,7 +22,8 @@
             <a href="https://www.credly.com/badges/01c2dd71-4817-43fd-84e4-0a3a06c8fcfe" target="_blank"> <img align="center" alt="https://www.credly.com/badges/01c2dd71-4817-43fd-84e4-0a3a06c8fcfe"  height="80" src="https://github.com/user-attachments/assets/ea1db0df-d1bc-4349-9d0c-b65214921202"> </a> 
           <a href="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015" target="_blank"> <img align="center" alt="https://www.credly.com/badges/cc1981e7-1660-4fd5-9dc8-eec5939ec015"  height="80" src="https://github.com/user-attachments/assets/b5840e1e-c34c-4386-9f30-f231db1666cb"> </a>
           <a href="https://www.credly.com/badges/be637208-f673-4fa0-99d2-95a485030aaf" target="_blank"> <img align="center" alt="https://www.credly.com/badges/be637208-f673-4fa0-99d2-95a485030aaf"  height="80" src="https://github.com/user-attachments/assets/797af6e0-965a-458f-9f46-1de6a2390d84"> </a>
-          
+          <a href="https://www.credly.com/badges/04f87185-a359-46cf-bd8b-444c4abb42e5" target="_blank"> <img align="center" alt="HashiCorp Certified: Terraform Associate"  height="80" src="https://github.com/user-attachments/assets/f92841d1-dd2d-48c4-bd4f-78d674d08fec"> </a>
+
 <p align="center"> 
           :black_small_square: 	:black_medium_small_square:
           :black_small_square: 	:black_medium_small_square:
