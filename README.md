@@ -1,7 +1,7 @@
 
 
 <p align="center">  <strong> Brazilian, 24 years old </strong> </p>
-<p align="center">  <strong> Software Engineer at Itaú Unibanco </strong> </p>
+<p align="center">  <strong> Mid Level Software Engineer at Enforce BTG Pactual </strong> </p>
 
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
 
@@ -39,9 +39,8 @@
 <img align="center" alt="Python" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img align="center" alt="AWS" height="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="Terraform" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-<img align="center" alt="C" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 <img align="center" alt="CPP" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-<img align="center" alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+<img align="center" alt="Git" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Bash" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="center" alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
 <img align="center" alt="HTML 5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
